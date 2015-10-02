@@ -43,7 +43,7 @@ If during the join a thread found out that **number_to_try** is prime, the progr
 - Version: 10.10.2 (14C81h)
 - Memory: 16 Go 1600 MHz DDR3
 - Processor: 2.3 GHz Intel Core i7
-- 
+
 ## License
 
 Banana Editor Online by [Romain Claret](http://www.romainclaret.com) is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
