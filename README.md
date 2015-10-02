@@ -46,4 +46,4 @@ If during the join a thread found out that **number_to_try** is prime, the progr
 
 ## License
 
-Banana Editor Online by [Romain Claret](http://www.romainclaret.com) is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+MultiThreads Prime Number Checker by [Romain Claret](http://www.romainclaret.com) is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
